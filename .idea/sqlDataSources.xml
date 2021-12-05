@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="23daac27-2f3a-4f8e-b87c-10b913286631" />
+          <option name="name" value="fresh_store" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/myExpressApp/fresh_store.sql" />
+            </array>
+          </option>
+          <option name="scriptOptions">
+            <map>
+              <entry key="QualifyWithSchema" value="ALWAYS" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+{
+"userId":"2",
+"products":
+[{"id": "1", "incart":2},{"id": "18", "incart":5},{"id": "32", "incart":3},{"id": "13", "incart":8}]
+}
